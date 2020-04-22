@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
+body{
+    font-family: Times New Roman;
+    padding: 10px; /*É um espaçamento*/
+    background:#D3D3D3;
+}
+h2{
+   font-family: 'Pacifico';
+   font-size: 30px;
+   text-align: center;
+}
+label{
+    font-family: 'Pacifico';
+   font-size: 20px;
+   text-align: center;
+}
+button{
+    background-color: #808080;
+    color: #000;
+}
+a{
+    text-align: center;
+    color: #0062cc;
+}
